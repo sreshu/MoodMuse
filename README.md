@@ -1,2 +1,2 @@
 # MoodMuse
-An entry for BHack
+Play and recommend songs on the basis of your current mood
